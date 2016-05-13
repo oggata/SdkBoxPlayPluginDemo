@@ -1,0 +1,26 @@
+{
+    "ios": {
+        "sdkboxplay": {
+            "leaderboards": [
+                {
+                    "id": "high_score_ranking", 
+                    "name": "high_score_ranking"
+                }
+            ], 
+            "achievements": [
+                {
+                    "incremental": false, 
+                    "id": "get_10_items", 
+                    "name": "get_10_items"
+                }, 
+                {
+                    "incremental": false, 
+                    "id": "get_20_items", 
+                    "name": "get_20_items"
+                }
+            ], 
+            "connect_on_start": true, 
+            "debug": true
+        }
+    }
+}
